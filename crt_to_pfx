@@ -1,0 +1,1 @@
+openssl pkcs12 -export -out recycanCS.pfx -inkey recycanCS.key -in recycanCS.crt -passout pass:"yourpassword"
