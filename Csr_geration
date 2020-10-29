@@ -1,0 +1,1 @@
+openssl req -out recycanCS.csr -new -newkey rsa:4096 -nodes -keyout recycanCS.key -config "C:\CERT\openssl\ssl\openssl.cnf"
